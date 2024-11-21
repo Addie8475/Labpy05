@@ -1,5 +1,9 @@
 # Program Data Nilai Mahasiswa
 
+**Flowchart**
+
+![Flowchart Program](https://github.com/user-attachments/assets/b9ddd7d8-11cc-4b0b-b437-90f61068d124)
+
 **Kode Python**
 
 ![Screenshot_19](https://github.com/user-attachments/assets/fe8513e1-2ecf-4656-b212-f58d3d9878d2)
